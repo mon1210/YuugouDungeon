@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: Third
   m_EditorClassIdentifier: 
   name: "\u30C9\u30F3\u30E9\u30B4\u30B9"
-  maxHp: 500
+  maxHp: 300
   maxMp: 500
   attack: 30
-  sprite: {fileID: 0}
   useableMove:
   - moveBase: {fileID: 11400000, guid: bcf22997f4316b5479a1b784cf4faa2b, type: 2}
   - moveBase: {fileID: 11400000, guid: b662ecb9f4fd4c94bbd81ae4f147ea9a, type: 2}

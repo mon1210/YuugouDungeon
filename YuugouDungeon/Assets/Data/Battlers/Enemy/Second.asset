@@ -16,7 +16,6 @@ MonoBehaviour:
   maxHp: 250
   maxMp: 200
   attack: 20
-  sprite: {fileID: 0}
   useableMove:
   - moveBase: {fileID: 11400000, guid: bcf22997f4316b5479a1b784cf4faa2b, type: 2}
   - moveBase: {fileID: 11400000, guid: 1ea9946d0d9c7c945850f6f30a90d25b, type: 2}
